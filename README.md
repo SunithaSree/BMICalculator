@@ -11,3 +11,7 @@ The calculator calculates your BMI and gives you food and excercise recommendati
 ![image](https://github.com/SunithaSree/BMICalculator/assets/129870333/279a3c78-c3e3-4e1f-908b-e5fab084a318)
 
 ![image](https://github.com/SunithaSree/BMICalculator/assets/129870333/44fbe248-614b-489e-be81-ac2ef798696d)
+
+
+
+![image](https://github.com/SunithaSree/BMICalculator/assets/129870333/b8ea4895-0c34-4544-9207-5c25391df9cf)
