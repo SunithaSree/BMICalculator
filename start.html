@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>BMI Calculator</title>
+<style>
+.container{
+background-color: rgb(255, 128, 64);
+color: white;
+border:5px solid  rgb(255, 128, 64) ;
+height:300px;
+width:500px;
+border-radius:10px;
+margin-left:50px;
+margin-top:150px;
+font-size: 1.8em;
+padding:50px;
+text-align:justify;
+}
+.button {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #04AA6D;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+</style>
+</head>
+<body style="background-image: url(BMIStart.jpg);background-position: center;background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
+<h1 style="text-align: center;  text-decoration-line: underline;
+  text-decoration-style: dotted;
+">WANT TO KNOW YOUR BMI?</h1>
+<div class="container">
+Imagine your body as a canvas and your weight as the amount of paint used. BMI is like estimating the paint thickness (fat) based on the canvas size (height). While it gives a general idea, it doesn't capture details like brushstrokes (muscle mass) or paint type (body composition).
+<br/>
+<br/>
+<form action="calc" method="get"><button type="submit" value="Calculate yours" class="button">Calculate yours</button>
+</form>
+</div>
+</body>
+</html>
