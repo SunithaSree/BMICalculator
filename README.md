@@ -8,3 +8,6 @@ The calculator calculates your BMI and gives you food and excercise recommendati
 
 ![image](https://github.com/SunithaSree/BMICalculator/assets/129870333/ad81aef6-1723-4e4c-a9b2-dba954f2cac6)
 
+![image](https://github.com/SunithaSree/BMICalculator/assets/129870333/279a3c78-c3e3-4e1f-908b-e5fab084a318)
+
+
